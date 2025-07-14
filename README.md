@@ -21,3 +21,5 @@ Uygulama kullanıcı dostu bir arayüze sahiptir. React ve React-Bootstrap kulla
 - JavaScript
 - React-Bootstrap
 - HTML5 / CSS3
+
+<img width="1437" height="733" alt="Ekran Resmi 2025-07-14 19 58 22" src="https://github.com/user-attachments/assets/94ef58fc-150a-4529-8cc4-fc5e0ff328b8" />
